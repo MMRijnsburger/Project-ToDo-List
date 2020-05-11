@@ -4,7 +4,7 @@ Winc Academy Project - Week 3: ToDo List
 Screenshot
 ![Screenshot](./afbeeldingen/Screenshot.png)
 
-Bekijk de live versie van de ToDo List: 
+Bekijk de live versie van de ToDo List: https://michellestodolist.netlify.app/
 
 Met dit project heb ik een ToDo List gemaakt met JavaScript. 
 De Todo lijst is gekoppelt aan een database, die beschikbaar is via een RESTful API. 
